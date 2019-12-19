@@ -11,4 +11,5 @@ amazonScraper pulls the price of a given product from the web, and sends you an 
 I used these videos to learn how to do this:
 
 https://www.youtube.com/watch?v=Bg9r_yLk7VY
+
 https://www.youtube.com/watch?v=E5cSNSeBhjw
